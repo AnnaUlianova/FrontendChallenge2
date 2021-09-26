@@ -95,6 +95,7 @@ body {
   color: var(--clr-light-gray);
   background-color: inherit;
   border: 2px solid;
+  padding: 0.625rem 1.75rem;
 }
 
 /* Media Queries */
